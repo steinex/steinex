@@ -17,7 +17,7 @@
   - https://matrix.nognu.de (this is the reference client with the most features and you want to use this to register)
   - https://cinny.nognu.de (another cute client with a very lovely UI)
   - TURN and STUN is available via v4 and v6 and on 443 (and the standard ports of course) for your audio / video conferences even with strict corporate or hospital firewalls 🙂
-  - IRC Bridge ([heisenbridge](https://github.com/hifi/heisenbridge)) is vailable to bring your IRC to Matrix
+  - IRC Bridge ([heisenbridge](https://github.com/hifi/heisenbridge)) is available to bring your IRC to Matrix
 - RSS-Reader ([Miniflux](https://miniflux.app/)): https://rss.nognu.de
 - CryptPad at https://pad.nognu.de (I have plenty of storage, hmu 🙂)
 
