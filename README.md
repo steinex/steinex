@@ -12,7 +12,7 @@
 
 ##### I love self hosting and you are invited!
 
-- Fediverse: Plermoma instance at https://pleroma.nognu.de
+- Fediverse: [Plermoma](https://pleroma.social/) instance at https://pleroma.nognu.de
 - Matrix: 
   - https://matrix.nognu.de (this is the reference client with the most features and you want to use this to register)
   - https://cinny.nognu.de (another cute client with a very lovely UI)
