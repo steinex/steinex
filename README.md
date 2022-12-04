@@ -23,4 +23,4 @@
 
 If you are interested in any of these, just hit me up and I give you an account if you are not a total stranger or weirdo.
 
-Other than that I host a lot of non-user facing stuff like Prometheus. Grafana, PostgresSQL, [Caddy](https://caddyserver.com/)  (i *love* Caddy!), [uptime-kuma](https://github.com/louislam/uptime-kuma) just to mention the "major" stuff.
+Other than that I host a lot of non-user facing stuff like Prometheus. Grafana, PostgresSQL, [Caddy](https://caddyserver.com/)  (i *love* Caddy!), [uptime-kuma](https://github.com/louislam/uptime-kuma) just to mention a few.
