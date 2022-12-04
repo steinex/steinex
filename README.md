@@ -12,6 +12,8 @@
 
 ##### I love self hosting and you are invited!
 
+If you are interested in any of these, just hit me up and I give you an account if you are not a total stranger or weirdo.
+
 - Fediverse: [Plermoma](https://pleroma.social/) instance at https://pleroma.nognu.de
 - Matrix: 
   - https://matrix.nognu.de (this is the reference client with the most features and you want to use this to register)
@@ -20,7 +22,5 @@
   - IRC Bridge ([heisenbridge](https://github.com/hifi/heisenbridge)) is available to bring your IRC to Matrix
 - RSS-Reader ([Miniflux](https://miniflux.app/)): https://rss.nognu.de
 - CryptPad at https://pad.nognu.de (I have plenty of storage, hmu 🙂)
-
-If you are interested in any of these, just hit me up and I give you an account if you are not a total stranger or weirdo.
 
 Other than that I host a lot of non-user facing stuff like Prometheus. Grafana, PostgresSQL, [Caddy](https://caddyserver.com/)  (i *love* Caddy!), [uptime-kuma](https://github.com/louislam/uptime-kuma) just to mention a few.
