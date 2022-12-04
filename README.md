@@ -1,7 +1,7 @@
 ##### Hi there 👋 About me:
 
 * I'm a Void Linux contributor (I love Void and *not* bevause it's systemd-free)
-* I host a lot of privacy stuff like [Tor relays](https://nognu.de/tor) and i2p floodfills
+* I host a lot of privacy stuff like [Tor](https://nognu.de/tor) [relays](https://nusenu.github.io/OrNetStats/nognu.de.html) and [i2p](https://geti2p.net/en/) floodfills
 
 ##### You can reach me via:
 
