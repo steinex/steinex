@@ -15,7 +15,7 @@
 If you are interested in any of these, just hit me up and I give you an account if you are not a total stranger or weirdo.
 
 - Fediverse: [Plermoma](https://pleroma.social/) instance at https://pleroma.nognu.de
-- Matrix: 
+- Matrix Synapse Server: 
   - https://matrix.nognu.de (this is the reference client with the most features and you want to use this to register)
   - https://cinny.nognu.de (another cute client with a very lovely UI)
   - TURN and STUN is available via v4 and v6 on their standard ports + 443 for your audio / video conferences even through strict corporate or hospital firewalls 😉
