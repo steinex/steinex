@@ -24,6 +24,6 @@ If you are interested in any of these, just hit me up and I give you an account 
 - RSS-Reader ([Miniflux](https://miniflux.app/)): https://rss.nognu.de
 - CryptPad at https://pad.nognu.de (I have plenty of storage, hmu 🙂)
 
-Other than that I host a lot of non-user facing stuff like Prometheus. Grafana, knot, PostgresSQL, [Caddy](https://caddyserver.com/)  (i *love* Caddy!), [uptime-kuma](https://github.com/louislam/uptime-kuma) (i *love* uptime-kuma!) just to mention a few. You can have a peak my infra here: [here](https://status.nognu.de/).
+Other than that I host a lot of non-user facing stuff like Prometheus. Grafana, knot, PostgresSQL, [Caddy](https://caddyserver.com/)  (i *love* Caddy!), [uptime-kuma](https://github.com/louislam/uptime-kuma) (i *love* uptime-kuma!) just to mention a few. You can have a peak at my infra here: [here](https://status.nognu.de/).
 
 ❤️
