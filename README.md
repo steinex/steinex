@@ -14,7 +14,7 @@
 
 If you are interested in any of these, just hit me up and I give you an account if you are not a total stranger or weirdo.
 
-- Synapse Matrix Stack: 
+- Matrix Server (Synapse): 
   - Clients
     - https://matrix.nognu.de (this is the reference client with the most features and you want to use this to register)
     - https://cinny.nognu.de (another cute client with a very lovely UI)
